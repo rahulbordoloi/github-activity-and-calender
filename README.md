@@ -8,7 +8,7 @@ Display Github Activity and Calendar in your Webpage.
 ![](/screenshots/1.JPG)
 ![](/screenshots/2.JPG)
 
-Thanks to @SauravMzdr for helping me out.
+Thanks [Sourav](http://github.com/SouravMzdr) for helping me out.
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
